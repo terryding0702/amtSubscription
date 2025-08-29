@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/contact/:id", "destination": "/api/contact/:id" }
+  ]
+}
