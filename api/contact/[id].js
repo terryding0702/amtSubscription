@@ -179,3 +179,9 @@ module.exports = async (req, res) => {
       .json({ error: e.message || 'Internal Server Error' });
   }
 };
+
+// https://amt-subscription-drab.vercel.app/api/contact/B92C7FA7-B173-4FD5-B07C-A7A7608DBE2F
+
+// https://amtsubscription.raoullake.com/test?contactId=3a9cc02d-278f-4ec2-87c7-58fed6e403b5
+
+// https://amtsubscription.raoullake.com/test?contactId=3a9cc02d-278f-4ec2-87c7-58fed6e403b5&name=test&email=terryding@qq.com&competitions=true&aboutAMT=true
